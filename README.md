@@ -1,4 +1,4 @@
-This provides a initially hidden milestone **"Priority Merger"**.
+This provides an initially hidden milestone **"Priority Merger"**.
 
 It enables a merger that lets you control the priorities of input connections.
 
