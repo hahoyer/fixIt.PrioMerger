@@ -2,7 +2,7 @@ This provides an initially hidden milestone **"Priority Merger"**.
 
 It enables a merger that lets you control the priorities of input connections.
 
-The milestone will show up as soon as you reach the milestone "Logistics" in tier 1 and comes with no costs.
+The milestone will show up as soon as you reach the milestone "Logistics" in tier 1 and comes with no extra costs.
 
 This way it can be activated immediately after "Logistics".
 
