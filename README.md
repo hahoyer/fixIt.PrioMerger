@@ -1,7 +1,6 @@
 A merger that lets you control the priorities of input connections.
 
-The prio-merger-milestone will show up as soon as you reach the milestone "Logistics" in tier 1. 
-This milestone comes with no costs and can be activated imediately.
+It is unlocked together with the Logistics milestone in Tier 1.
 
 Report bugs and ideas on https://github.com/hahoyer/fixIt.PrioMerger/issues
 
