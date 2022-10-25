@@ -1,6 +1,6 @@
 Staying efficient means setting limits. <br>
 The vanilla merger lets everything through without restriction.  <br>
-The Priority Controlled Merger (PCM) is an adequate solution to this problem, dear pionieer.  <br>
+The Priority Controlled Merger (PCM) is an adequate solution to this problem, dear pioneer.  <br>
 You decide in which order the incoming items are processed.<br>
 This way you can make your factory even more efficient.
 
