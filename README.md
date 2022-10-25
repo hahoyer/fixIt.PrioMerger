@@ -1,11 +1,15 @@
-It enables a merger that lets you control the priorities of input connections.
+Staying efficient means setting limits. <br>
+The vanilla merger lets everything through without restriction.  <br>
+The Priority Controlled Merger (PCM) is an adequate solution to this problem, dear pioneer.  <br>
+You decide in which order the incoming items are processed.<br>
+This way you can make your factory even more efficient.
 
-It is unlocked together with the Logistics milestone in Tier 1.
+PCM is unlocked together with the Logistics milestone in Tier 1.
 
 ## Examples of usage:
 
 ### Default
-No prio set. It will act like a normal merger:
+No prio set. It will act like a vanilla merger:
 
 ![1](https://github.com/hahoyer/fixIt.PrioMerger/blob/main/Resources/PrioMergerNoPrio.png?raw=true "The same prio for all")
 
