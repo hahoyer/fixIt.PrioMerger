@@ -1,14 +1,14 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.5",
-    "SemVersion": "1.0.5",
+	"VersionName": "1.0.6",
+    "SemVersion": "1.0.6",
 	"FriendlyName": "PrioMerger",
 	"Description": "A merger that lets you control the priorities of input connections.",
 	"Category": "Modding",
 	"CreatedBy": "ixu",
 	"CanContainContent": true,
-	"IsBetaVersion": true,
+	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"Plugins": [
