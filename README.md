@@ -8,11 +8,6 @@ PCM is unlocked together with the Logistics milestone in Tier 1.
 
 ## Examples of usage:
 
-### Default
-No prio set. It will act like a vanilla merger:
-
-![1](https://github.com/hahoyer/fixIt.PrioMerger/blob/main/Resources/PrioMergerNoPrio.png?raw=true "The same prio for all")
-
 ### Prefer one
 The picture shows how to prioritize the central input. Right and left are pulled alternately when nothing is present in the center:
 
@@ -22,6 +17,11 @@ The picture shows how to prioritize the central input. Right and left are pulled
 In the following example, left is taken first, then center and finally right:
 
 ![1](https://github.com/hahoyer/fixIt.PrioMerger/blob/main/Resources/PrioMergerLeftCenterRight.png?raw=true "Left has prio, then center, then right.")
+
+### Default
+No prio set. It will act like a vanilla merger:
+
+![1](https://github.com/hahoyer/fixIt.PrioMerger/blob/main/Resources/PrioMergerNoPrio.png?raw=true "The same prio for all")
 
 These item-symbols indicate what is currently available at each input.
 
